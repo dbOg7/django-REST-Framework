@@ -1,5 +1,4 @@
-venv
 .env
-db.sqlite3
+venv
 settings_specific.py
-
+db.sqlite3
